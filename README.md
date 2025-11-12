@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600" alt="Matrix animation"/>
-</p>
-
----
-
 # 👋 Bem-vindo(a) ao meu GitHub!
 
 ---
@@ -42,7 +36,7 @@ Meu objetivo é unir **tecnologia**, **usabilidade** e **segurança** para criar
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
   <a href="https://www.instagram.com/ricardooliveiramg/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
+    <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg](https://www.vicosa.mg.leg.br/imagens/instagram-icone-png.png/image_view_fullscreen)" width="52" height="40" alt="instagram logo"/>
   </a>
   <a href="mailto:ricardojacutinga2014@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
@@ -59,19 +53,3 @@ Meu objetivo é unir **tecnologia**, **usabilidade** e **segurança** para criar
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ricardo-Oliveira&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Oliveira&layout=compact&theme=radical" alt="Top languages"/>
-</p>
-
----
-
-
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="500" alt="Matrix animation"/>
-</p>
